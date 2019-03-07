@@ -3,7 +3,7 @@ Portfolio is a personal webpage to show case who i am and what i do.
 
 #Version 1.0
 #Getting started
-*This webpage generally manages my personal information and outreach to potential clients.
+ *This webpage generally manages my personal information and outreach to potential clients.
 
 #Technologies used
 
